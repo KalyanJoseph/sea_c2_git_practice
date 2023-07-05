@@ -1,13 +1,17 @@
 p {
     color: blue;
+    font-weight: bold;
 }
 
 body {
-    background-color: aqua;
     color: black;
+    background-color: lightblue;
+
 }
 
 h1 {
-    background-color: blue;
-    color: red;
+    color: green;
+}
+footer {
+    color: black;
 }
